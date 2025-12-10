@@ -1,1 +1,3 @@
-# ctf-intro
+# Введение в CTF
+
+![](img/image.png)
