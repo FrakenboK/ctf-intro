@@ -8,7 +8,7 @@ services:
       - 13373:13373
     environment:
       - FLAG1=flag{PWN1NG_1S_V3RY_INTER3ST1NG}
-      - FLAG2=flag{PWN3RZ_4R3_TH3_B3$T!}
+      - FLAG2=flag{PWN3RZ_4R3_TH3_B3ST!}
     cpus: 1
     pids_limit: 512
     mem_limit: 256M
