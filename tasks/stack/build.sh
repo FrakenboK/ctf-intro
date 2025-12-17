@@ -1,0 +1,1 @@
+gcc -fno-stack-protector -no-pie stack.c -o stack
